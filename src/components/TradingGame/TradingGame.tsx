@@ -1,4 +1,4 @@
-import React, { FC, useState, useEffect } from 'react';
+import { FC, useState} from 'react';
 import TradingControls from './TradingControls';
 import PredictionButtons from './PredictionButtons';
 import NextGameButton from './NextGameButton';
